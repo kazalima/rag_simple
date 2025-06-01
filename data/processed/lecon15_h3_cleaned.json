@@ -1,0 +1,199 @@
+{
+  "document": {
+    "document_id": "lecon15_h3",
+    "processing_date": "2025-06-01T03:33:46.541425",
+    "total_sections": 8
+  },
+  "sections": [
+    {
+      "title": "LA DEUXIEME GUERRE MONDIALE : causes et conséquences",
+      "content": "",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_1",
+        "keywords": [
+          "deuxieme",
+          "conséquences",
+          "mondiale",
+          "guerre",
+          "causes"
+        ],
+        "chunk_type": "section",
+        "document": "lecon15_h3"
+      }
+    },
+    {
+      "title": "INTRODUCTION",
+      "content": "L’attaque allemande contre la Pologne dés septembre 1939 déclenche la seconde guerre mondiale. Celle-ci, commencée en Europe, va s’étendre sur d’autres continents et aura des conséquences très importantes.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_2",
+        "keywords": [
+          "introduction"
+        ],
+        "chunk_type": "section",
+        "document": "lecon15_h3"
+      }
+    },
+    {
+      "title": "I- LES CAUSES DE LA GUERRE",
+      "content": "",
+      "type": "section",
+      "subsections": [
+        {
+          "title": "A-Les succès des dictatures à partir de 1936",
+          "content": "L’axe Rome Berlin signé en octobre 1936, puis le pacte anti Komintern conclu avec le Japon, marquent le rapprochement des trois dictatures. En mars 1938, Hitler réalise l’Anschluss : l’Autriche, travaillée de l’intérieur par le parti nazi de Seyss Inquart, est annexée par l’Allemagne. En 1938, la Tchécoslovaquie, mutilée des Sudètes, n’avait pas tardé à être rattachée à l’Allemagne. En Asie, les Japonais, partis de leurs bases de Mandchourie, occupent tout le nord de la Chine.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_1",
+            "parent_section": "sec_3",
+            "keywords": [
+              "dictatures",
+              "partir",
+              "succès"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon15_h3"
+          }
+        },
+        {
+          "title": "B- La passivité des démocraties.",
+          "content": "La passivité de la France et de l’Angleterre a des causes psychologiques. La première guerre mondiale et son cortège de misère ont rendu impopulaire l idée d’un nouveau conflit. Les démocraties rêvent de désarmement mondial et veulent la paix à tout prix.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_2",
+            "parent_section": "sec_3",
+            "keywords": [
+              "démocraties",
+              "passivité"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon15_h3"
+          }
+        },
+        {
+          "title": "C- La crise de Dantzig : été 1939.",
+          "content": "Au printemps 1939, Hitler se retourne contre la Pologne. Il demande le rattachement au Reich de la ville libre de Dantzig peuplée en majorité d’Allemands. Français et Anglais décident de soutenir la Pologne. Le 1er septembre 1939, l’armée allemande entre en Pologne. Le 3 septembre 1939, Paris et Londres déclarent la guerre à l’Allemagne.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_3",
+            "parent_section": "sec_3",
+            "keywords": [
+              "dantzig",
+              "crise"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon15_h3"
+          }
+        }
+      ],
+      "metadata": {
+        "section_id": "sec_3",
+        "keywords": [
+          "guerre",
+          "causes"
+        ],
+        "chunk_type": "section",
+        "document": "lecon15_h3"
+      }
+    },
+    {
+      "title": "II-LES ETAPES DE LA GUERRE",
+      "content": "Aux victoires presque ininterrompues de « l’AXE » Allemagne, Italie, Japon jusqu’en 1942, succède une période d’équilibre 1942-1943, suivie par la contre offensive des «ALLIES» Angleterre, France, Etats Unis, URSS de 1943 à 1945.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_4",
+        "keywords": [
+          "guerre",
+          "etapes"
+        ],
+        "chunk_type": "section",
+        "document": "lecon15_h3"
+      }
+    },
+    {
+      "title": "III-LES CONSEQUENCES DE LA GUERRE",
+      "content": "",
+      "type": "section",
+      "subsections": [
+        {
+          "title": "A-Les conséquences hors d’Afrique.",
+          "content": "",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_1",
+            "parent_section": "sec_5",
+            "keywords": [
+              "afrique",
+              "conséquences"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon15_h3"
+          }
+        }
+      ],
+      "metadata": {
+        "section_id": "sec_5",
+        "keywords": [
+          "guerre",
+          "consequences"
+        ],
+        "chunk_type": "section",
+        "document": "lecon15_h3"
+      }
+    },
+    {
+      "title": "Le bilan de la guerre est trop lourd:",
+      "content": "Au plan humain : il y a prés de 60 millions de morts dont 40 millions pour l’Europe et l’extermination de 6 millions de juifs. Au plan économique : même si la guerre a été à l’origine de très grands progrès scientifiques et techniques avions, fusées, pénicillines etc, elle a entraîné de lourdes pertes matérielles, un lourd endettement, une économie à reconstruire. Au plan politique : on assiste à la naissance de deux blocs autours des Etats Unis et de L’URSS, la division de l’Allemagne en deux pays la République Fédérale d’Allemagne et la République Démocratique Allemande et la création de l’O. N. U. Organisation des Nations Unies",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_6",
+        "keywords": [
+          "bilan",
+          "guerre",
+          "lourd"
+        ],
+        "chunk_type": "section",
+        "document": "lecon15_h3"
+      }
+    },
+    {
+      "title": "B- Les conséquences en Afrique et au Sénégal",
+      "content": "L’Afrique a participé à la deuxième guerre mondiale. Elle a servi de champ de batailles et a envoyé des soldats. Sur le plan économique, le continent noir a participé à l’effort de guerre. Ainsi l’Afrique a subi de lourdes pertes humaines et matérielles mais la conséquence majeure est le réveil du nationalisme. Au Sénégal, on assiste à un regain des activités politiques. Le Sénégal, comme l’ensemble des autres colonies françaises d’Afrique, s’engage dans un processus de décolonisation qui aboutit à son indépendance en 1960. Le Sénégal a également subi des pertes humaines avec ses tirailleurs et des problèmes économiques avec l’effort de guerre.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_7",
+        "keywords": [
+          "afrique",
+          "conséquences",
+          "sénégal"
+        ],
+        "chunk_type": "section",
+        "document": "lecon15_h3"
+      }
+    },
+    {
+      "title": "CONCLUSION",
+      "content": "La deuxième guerre mondiale est la plus meurtrière de l’histoire. Elle va modifier les relations internationales qui seront désormais rythmées par la confrontation Est-Ouest. En Afrique et en Asie, l’après guerre est marquée par la décolonisation.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_8",
+        "keywords": [
+          "conclusion"
+        ],
+        "chunk_type": "section",
+        "document": "lecon15_h3"
+      }
+    }
+  ]
+}

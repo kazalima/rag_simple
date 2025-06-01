@@ -1,0 +1,193 @@
+{
+  "document": {
+    "document_id": "lecon8_h3",
+    "processing_date": "2025-06-01T03:33:46.526878",
+    "total_sections": 5
+  },
+  "sections": [
+    {
+      "title": "LES SYSTEMES COLONIAUX",
+      "content": "",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_1",
+        "keywords": [
+          "coloniaux",
+          "systemes"
+        ],
+        "chunk_type": "section",
+        "document": "lecon8_h3"
+      }
+    },
+    {
+      "title": "INTRODUCTION",
+      "content": "A la fin de la conquête, les puissances européennes se lancent dans l’organisation de leurs colonies. Cette organisation varie selon les puissances colonisatrices. Différents systèmes vont ainsi voir le jour dont les plus importants sont le système français et le système anglais",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_2",
+        "keywords": [
+          "introduction"
+        ],
+        "chunk_type": "section",
+        "document": "lecon8_h3"
+      }
+    },
+    {
+      "title": "I-LE SYSTEME FRANÇAIS",
+      "content": "",
+      "type": "section",
+      "subsections": [
+        {
+          "title": "A-L’administration directe",
+          "content": "Le système français se caractérise par l’administration directe qui consistait à organiser les colonies en s’appuyant sur des fonctionnaires nommés par la métropole. Dans ce système, les autochtones avaient la possibilité de participer à la gestion de la colonie par la nomination de députés au parlement français. Le système français, en adoptant l’administration directe, cherchait l’« assimilation » ; l’objectif de la France était de modeler les peuples colonisés sur le modèle français.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_1",
+            "parent_section": "sec_3",
+            "keywords": [
+              "directe",
+              "administration"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon8_h3"
+          }
+        },
+        {
+          "title": "B- Organisation de l’empire français.",
+          "content": "Au début du XX éme siècle, l’empire colonial français comprenait des colonies et des protectorats.",
+          "type": "subsection",
+          "subparts": [
+            {
+              "title": "1- Les colonies : chaque colonie était administrée par les soins d’un gouverneur. L’ensemble des gouverneurs était sous l’autorité du ministère des colonies créé en 1894.",
+              "content": "En 1895, on note une évolution dans l’organisation de l’empire colonial français avec le regroupement des colonies en grands ensembles comme l’Afrique Occidentale Française 1895, Madagascar 1897 et l’Afrique Equatoriale Française 1910 . Des gouverneurs généraux étaient placés à la tête de ces vastes ensembles. L’Algérie était une colonie avec un statut particulier. Depuis 1870, cette colonie est rattachée au ministère de l’intérieur. Elle constituait une colonie de peuplement.",
+              "type": "subpart",
+              "metadata": {
+                "subpart_id": "part_1",
+                "parent_subsection": "sub_2",
+                "keywords": [
+                  "colonies",
+                  "soins",
+                  "administrée",
+                  "ensemble",
+                  "était",
+                  "gouverneurs",
+                  "gouverneur",
+                  "colonie",
+                  "autorité",
+                  "ministère",
+                  "chaque"
+                ],
+                "chunk_type": "subpart",
+                "document": "lecon8_h3"
+              }
+            },
+            {
+              "title": "2- Les protectorats : les protectorats dépendaient du ministère des affaires étrangères.",
+              "content": "En Afrique, les protectorats français étaient la Tunisie et le Maroc. Le système du protectorat ne confie à un haut fonctionnaire de la puissance colonisatrice que des pouvoirs limités : relations extérieures toujours, forces armées et finances, très souvent. Mais, dans la pratique, il est fréquent que l’administration directe se substitue sournoisement au protectorat.",
+              "type": "subpart",
+              "metadata": {
+                "subpart_id": "part_2",
+                "parent_subsection": "sub_2",
+                "keywords": [
+                  "étrangères",
+                  "affaires",
+                  "protectorats",
+                  "dépendaient",
+                  "ministère"
+                ],
+                "chunk_type": "subpart",
+                "document": "lecon8_h3"
+              }
+            }
+          ],
+          "metadata": {
+            "subsection_id": "sub_2",
+            "parent_section": "sec_3",
+            "keywords": [
+              "français",
+              "organisation",
+              "empire"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon8_h3"
+          }
+        }
+      ],
+      "metadata": {
+        "section_id": "sec_3",
+        "keywords": [
+          "systeme",
+          "français"
+        ],
+        "chunk_type": "section",
+        "document": "lecon8_h3"
+      }
+    },
+    {
+      "title": "II-LE SYSTEME BRITANNIQUE",
+      "content": "",
+      "type": "section",
+      "subsections": [
+        {
+          "title": "A-L’administration indirecte",
+          "content": "L’administration du pays se fait sur place, mais la liberté qui est laissée aux autochtones est plus ou moins grande. Cette liberté peut être considérable en théorie et très limitée dans la pratique. Le système britannique, contrairement au système français, ne cherchait pas à assimiler les colonies à la métropole ; il n’admet pas de député des colonies au parlement de Londres, mais il accepte facilement la création de gouvernements représentatifs élus à l’intérieur de chaque colonie.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_1",
+            "parent_section": "sec_4",
+            "keywords": [
+              "administration",
+              "indirecte"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon8_h3"
+          }
+        },
+        {
+          "title": "B-Organisation de l’empire britannique",
+          "content": "Les colonies anglaises ont divers régimes selon leur ancienneté, leur évolution, leur peuplement etc. L’empire colonial britannique comprenait des « colonies de la Couronne », des « colonies à gouvernement responsable » et des « dominions ». Les colonies de la couronne dépendaient du « colonial office » créé en 1854 ; dans ces colonies, la Grande Bretagne était représentée par des gouverneurs. Exemple : Afrique du sud Les colonies à gouvernement responsable bénéficiaient d’une large autonomie. Les dominions, indépendants, sauf en ce qui concerne la politique étrangère, avaient le même souverain que le Royaume Uni ; le lieutenant gouverneur, qui représentait le souverain, n’avait que des fonctions honorifiques. Les dominions étaient d’anciennes colonies de peuplement.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_2",
+            "parent_section": "sec_4",
+            "keywords": [
+              "britannique",
+              "organisation",
+              "empire"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon8_h3"
+          }
+        }
+      ],
+      "metadata": {
+        "section_id": "sec_4",
+        "keywords": [
+          "britannique",
+          "systeme"
+        ],
+        "chunk_type": "section",
+        "document": "lecon8_h3"
+      }
+    },
+    {
+      "title": "CONCLUSION",
+      "content": "Les métropoles européennes ont utilisé des systèmes différents pour administrer leurs colonies mais l’objectif est resté le même, l’exploitation économique des colonies.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_5",
+        "keywords": [
+          "conclusion"
+        ],
+        "chunk_type": "section",
+        "document": "lecon8_h3"
+      }
+    }
+  ]
+}

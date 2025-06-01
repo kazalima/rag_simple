@@ -1,0 +1,119 @@
+{
+  "document": {
+    "document_id": "lecon7_h3",
+    "processing_date": "2025-06-01T03:33:46.554645",
+    "total_sections": 4
+  },
+  "sections": [
+    {
+      "title": "INTRODUCTION",
+      "content": "La révolution Meiji a permis au Japon de passer d’une situation de pays féodal à celle d’une puissance économique et militaire. Mais ce pays dont les ressources naturelles ne suffisent pas aux besoins de sa population sans cesse croissante est contraint et voué à une politique d’agression et de conquête économique et militaire.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_1",
+        "keywords": [
+          "introduction"
+        ],
+        "chunk_type": "section",
+        "document": "lecon7_h3"
+      }
+    },
+    {
+      "title": "I- LES CAUSES DE L’IMPERIALISME JAPONAIS",
+      "content": "Les causes de l’impérialisme japonais sont à la fois démographique et économique. Sur le plan démographique, la population nippone est passée de 30 millions en 1868 à 55 millions en 1914. Avec cette augmentation très rapide de la population se pose un problème d’espace pour un archipel comme le Japon. Ainsi, ce pays avait besoin de nouvelles terres pour vider une partie de sa population trop nombreuse. Sur le plan économique, le Japon s’engage en 1868 dans une ère nouvelle, « la Révolution Meiji, l’ère des lumières», sous l’impulsion de l’Empereur Mutsu Hito 1867-1912. Ce dernier adapte son pays à l’économie capitaliste. Le Japon se modernise très vite. Il devient une puissance industrielle, exportant des produits finis à un prix très compétitif sur les marchés asiatiques. Cette croissance économique a des limites : le Japon manque de ressources naturelles. Dans l’esprit des dirigeants nippons, l’expansion japonaise devient une solution aux problèmes démographiques et économiques",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_2",
+        "keywords": [
+          "japonais",
+          "imperialisme",
+          "causes"
+        ],
+        "chunk_type": "section",
+        "document": "lecon7_h3"
+      }
+    },
+    {
+      "title": "II- LES MANIFESTATIONS DE L’IMPERIALISME JAPONAIS",
+      "content": "Le Japon, dans sa tentative d’expansion en Asie, s’est heurté à la Chine et à la Russie",
+      "type": "section",
+      "subsections": [
+        {
+          "title": "Sans sous-titre",
+          "content": "",
+          "type": "subsection",
+          "subparts": [
+            {
+              "title": "1- la première poussée de l’impérialisme japonais 1894-1906",
+              "content": "En une douzaine d’années, le Japon affronte deux grandes puissances et remportent sur elles deux victoires également retentissantes : l’empire chinois d’abord, l’empire russe ensuite. La guerre sino-japonaise éclate en 1894 et se termine en 1895, avec le traité de Tsushima qui accorde au Japon l’île de Formose, la Corée, quelques autres îles et une grosse indemnité de guerre. La guerre russo-japonaise 1904-1906 : Attaquée par sur prise en Extrême Orient au début de 1904, mal préparée à soutenir une guerre à 700 km de ses bases, l’ armée russe est battue dans une série de batailles dont les plus importantes sont celles de Port Arthur et de Moukden. L’arbitrage des Etats Unis rétablit la paix en 1906 et accorde au Japon une liberté d’action complète en Mandchourie ainsi dépossédée de la Russie.",
+              "type": "subpart",
+              "metadata": {
+                "subpart_id": "part_1",
+                "parent_subsection": "sub_1",
+                "keywords": [
+                  "japonais",
+                  "impérialisme",
+                  "première",
+                  "poussée"
+                ],
+                "chunk_type": "subpart",
+                "document": "lecon7_h3"
+              }
+            },
+            {
+              "title": "2-la seconde poussée de l’impérialisme japonais après 1931",
+              "content": "La crise économique des années 30 pousse le Japon à vouloir étendre ses possessions en Asie continentale. Dés 1931, les Japonais commencent à occuper deux provinces chinoises voisines de leur possession de Corée. Ils transforment la Mandchourie en empire vassal. En 1937, le Japon occupe des villes côtières comme Changhaï malgré la résistance acharnée des troupes chinoises.",
+              "type": "subpart",
+              "metadata": {
+                "subpart_id": "part_2",
+                "parent_subsection": "sub_1",
+                "keywords": [
+                  "poussée",
+                  "après",
+                  "impérialisme",
+                  "japonais",
+                  "seconde"
+                ],
+                "chunk_type": "subpart",
+                "document": "lecon7_h3"
+              }
+            }
+          ],
+          "metadata": {
+            "subsection_id": "sub_1",
+            "parent_section": "sec_3",
+            "keywords": [],
+            "chunk_type": "subsection",
+            "document": "lecon7_h3"
+          }
+        }
+      ],
+      "metadata": {
+        "section_id": "sec_3",
+        "keywords": [
+          "japonais",
+          "imperialisme",
+          "manifestations"
+        ],
+        "chunk_type": "section",
+        "document": "lecon7_h3"
+      }
+    },
+    {
+      "title": "CONCLUSION",
+      "content": "L’impérialisme japonais a commencé à la fin du 19éme siècle et s’est poursuivit jusqu’à la deuxième guerre mondiale. Cet impérialisme, limité en Asie, a permis au Japon de devenir une grande puissance militaire et politique en Extrême-Orient.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_4",
+        "keywords": [
+          "conclusion"
+        ],
+        "chunk_type": "section",
+        "document": "lecon7_h3"
+      }
+    }
+  ]
+}

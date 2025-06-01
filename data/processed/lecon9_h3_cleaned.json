@@ -1,0 +1,113 @@
+{
+  "document": {
+    "document_id": "lecon9_h3",
+    "processing_date": "2025-06-01T03:33:46.547744",
+    "total_sections": 6
+  },
+  "sections": [
+    {
+      "title": "INTRODUCTION",
+      "content": "Comme en Afrique, l’impérialisme européen est à l’origine de plusieurs rivalités qui ont parfois dégénéré en violents conflits. Mais la nouveauté est l’existence d’impérialismes locaux en l’occurrence russe et japonais.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_1",
+        "keywords": [
+          "introduction"
+        ],
+        "chunk_type": "section",
+        "document": "lecon9_h3"
+      }
+    },
+    {
+      "title": "I- L’IMPERIALISME EN ASIE OCCIDENTALE",
+      "content": "Au XIX éme siècle, l’Asie occidentale est une région sous domination ottomane. L’Empire turc, affaibli par son étendue et les ingérences européennes, ne peut s’opposer aux conquêtes anglaises, russes, françaises et allemandes avec comme objectif l’accaparement des richesses de la région. L’Allemagne entreprend de grands travaux en Irak, l’Angleterre rachète une partie du canal de Suez et cherche à obtenir des concessions minières en Perse et en Irak tout en contrecarrant les visées allemandes. La France n’a que des intérêts économiques limités, en dehors du canal de Suez.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_2",
+        "keywords": [
+          "imperialisme",
+          "occidentale"
+        ],
+        "chunk_type": "section",
+        "document": "lecon9_h3"
+      }
+    },
+    {
+      "title": "II- L’IMPERIALISME EN ASIE CENTRALE",
+      "content": "Les puissances rivales dans cette région sont l’Angleterre et la Russie. L’impérialisme russe , motivé par la recherche de ports dans les mers chaudes du sud , se heurte en Asie centrale aux intérêts anglais en Inde . En 1880, les Anglais occupent le Tibet et le Cachemire alors que les Russes passaient à la conquête du nord de cette région. En 1895 un accord anglo-russe fait de l’Afghanistan un état tampon entre possessions russes et anglaises.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_3",
+        "keywords": [
+          "imperialisme",
+          "centrale"
+        ],
+        "chunk_type": "section",
+        "document": "lecon9_h3"
+      }
+    },
+    {
+      "title": "III- L’IMPERIALISME EN EXTREME-ORIENT",
+      "content": "",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_4",
+        "keywords": [
+          "imperialisme",
+          "extreme",
+          "orient"
+        ],
+        "chunk_type": "section",
+        "document": "lecon9_h3"
+      }
+    },
+    {
+      "title": "A-La Chine",
+      "content": "C’est le lieu de convergence de toutes les puissances coloniales : l’Angleterre, la France, le Japon, et la Russie. C’est en 1842 qu’intervient le « Break Up » ouverture de la Chine. C’est l’Angleterre qui inaugure l’ouverture par la « guerre de l’opium » de 1839 à 1842. Le traité de Nankin met fin à cette guerre en ouvrant cinq ports au commerce anglais en plus de l’île de Formose. On ouvrait ainsi l’ère des « traités inégaux ». En effet, à la suite des Anglais, les autres puissances réclament des avantages et finissent par obtenir des zones d’influence leur permettant d’exploiter les richesses de la Chine. Elles obtiennent aussi des territoires à bail qui sont autant de bases militaires et navales.",
+      "type": "section",
+      "subsections": [
+        {
+          "title": "B-L’Indochine",
+          "content": "Dans cette région, on trouve les Anglais et les Français. Les Français sont au Tonkin et en Annam alors que les Anglais sont en Birmanie et en Malaisie. Pour éviter des heurts, un accord entre français et anglais fait de SiamThailande un Etat tampon entre leurs possessions",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_1",
+            "parent_section": "sec_5",
+            "keywords": [
+              "indochine"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon9_h3"
+          }
+        }
+      ],
+      "metadata": {
+        "section_id": "sec_5",
+        "keywords": [
+          "chine"
+        ],
+        "chunk_type": "section",
+        "document": "lecon9_h3"
+      }
+    },
+    {
+      "title": "CONCLUSION",
+      "content": "L’impérialisme en Asie est marqué par de nombreuses rivalités qui ont parfois donné naissance à de violents conflits dont la plus grave est le conflit russo-japonais. A la suite de ce conflit, le Japon émerge comme la principale puissance de cette région.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_6",
+        "keywords": [
+          "conclusion"
+        ],
+        "chunk_type": "section",
+        "document": "lecon9_h3"
+      }
+    }
+  ]
+}

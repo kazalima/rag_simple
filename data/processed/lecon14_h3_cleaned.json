@@ -1,0 +1,129 @@
+{
+  "document": {
+    "document_id": "lecon14_h3",
+    "processing_date": "2025-06-01T03:33:46.522860",
+    "total_sections": 7
+  },
+  "sections": [
+    {
+      "title": "INTRODUCTION",
+      "content": "A la fin de la première guerre mondiale, l’Europe s’ attèle à sa reconstruction. Les Etats Unis, grands bénéficiaires de la guerre, consolident leur suprématie industrielle et monétaire quand intervient, en 1929, le krach boursier de Wall Street, point de départ de la crise économique la plus grave que le monde capitaliste ait connue.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_1",
+        "keywords": [
+          "introduction"
+        ],
+        "chunk_type": "section",
+        "document": "lecon14_h3"
+      }
+    },
+    {
+      "title": "I-LES CAUSES DE LA CRISE.",
+      "content": "Les causes sont multiples et complexes, mais on peut en retenir trois : Les causes économiques : en 1919, l’Europe entame une reconstruction qui stimule l’économie américaine. Mais en 1929, l’Europe a fini de se reconstruire et ne peut plus absorber la production américaine. Les causes financières : elles sont le fait des banques qui encouragent de manière abusive le crédit. Les causes structurelles : cette crise doit s’analyser comme la crise d’un système économique ; dans le système capitaliste, les périodes de hausse sont toujours suivies de périodes de récession.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_2",
+        "keywords": [
+          "crise",
+          "causes"
+        ],
+        "chunk_type": "section",
+        "document": "lecon14_h3"
+      }
+    },
+    {
+      "title": "II-LES MANIFESTATIONS DE LA CRISE.",
+      "content": "La crise de 1929 débute par un « krach » à la bourse de Wall Street de New York. Le jeudi 24 octobre, le cours des actions qui avait triplé en un an s’effondre. En quelques heures, près de 13 millions de titres changent de main, plongeant dans la détresse ceux qui avaient spéculé à la hausse. Le cataclysme prend une ampleur sans précédent. En quelques années, le monde entier allait être plongé dans une crise économique qui se prolonge jusqu’au lendemain de la seconde guerre mondiale.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_3",
+        "keywords": [
+          "crise",
+          "manifestations"
+        ],
+        "chunk_type": "section",
+        "document": "lecon14_h3"
+      }
+    },
+    {
+      "title": "III-LES CONSEQUENCES DE LA CRISE",
+      "content": "La crise de 1929 est un désastre économique et social qui a ébranlé des systèmes politiques.",
+      "type": "section",
+      "subsections": [
+        {
+          "title": "A- Les conséquences économiques.",
+          "content": "D’abord boursière, la crise devient financière. De nombreuses banques, incapables de rembourser les dépôts des clients, tombent en faillite. L’ industrie et l’agriculture sont touchées avec une accumulation de stocks. La production industrielle mondiale baisse de 40 entre 1929 et 1932 ainsi que le prix des produits. Le commerce international se désorganise; certains pays adoptent le protectionnisme, le dumping, le troc.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_1",
+            "parent_section": "sec_4",
+            "keywords": [
+              "économiques",
+              "conséquences"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon14_h3"
+          }
+        }
+      ],
+      "metadata": {
+        "section_id": "sec_4",
+        "keywords": [
+          "crise",
+          "consequences"
+        ],
+        "chunk_type": "section",
+        "document": "lecon14_h3"
+      }
+    },
+    {
+      "title": "B- Les conséquences sociales",
+      "content": "La crise a accentué le chômage, et la misère se généralise. La xénophobie se développe dans les pays riches. On assiste aussi à une recrudescence du racisme aux Etats Unis et de l’antisémitisme en Allemagne et en Europe centrale.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_5",
+        "keywords": [
+          "sociales",
+          "conséquences"
+        ],
+        "chunk_type": "section",
+        "document": "lecon14_h3"
+      }
+    },
+    {
+      "title": "C- Les conséquences politiques",
+      "content": "Les démocraties libérales ont été fortement affectées par la crise alors que l’U R S S avait échappé à cette crise. On assiste ainsi à une remise en cause du capitalisme au profit du socialisme. Cette situation a favorisé dans certains pays comme l’Allemagne, Italie, et l’Espagne la naissance de régimes fascistes.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_6",
+        "keywords": [
+          "conséquences",
+          "politiques"
+        ],
+        "chunk_type": "section",
+        "document": "lecon14_h3"
+      }
+    },
+    {
+      "title": "CONCLUSION",
+      "content": "La crise des «années 30» a été une crise du capitalisme qui a affaibli les démocraties libérales et a favorisé la montée des dictatures. Cette montée des dictatures va aboutir à l’éclatement de la seconde guerre mondiale.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_7",
+        "keywords": [
+          "conclusion"
+        ],
+        "chunk_type": "section",
+        "document": "lecon14_h3"
+      }
+    }
+  ]
+}

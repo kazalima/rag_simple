@@ -1,0 +1,146 @@
+{
+  "document": {
+    "document_id": "lecon13_h3",
+    "processing_date": "2025-06-01T03:33:46.538791",
+    "total_sections": 6
+  },
+  "sections": [
+    {
+      "title": "INTRODUCTION",
+      "content": "En octobre 1917, la Russie a connu une révolution dont le principal artisan a été Lénine. La réussite de cette révolution a fait de la Russie le premier pays socialiste et une référence pour beaucoup de pays à travers le monde.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_1",
+        "keywords": [
+          "introduction"
+        ],
+        "chunk_type": "section",
+        "document": "lecon13_h3"
+      }
+    },
+    {
+      "title": "I-LES CAUSES DE LA REVOLUTION",
+      "content": "",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_2",
+        "keywords": [
+          "revolution",
+          "causes"
+        ],
+        "chunk_type": "section",
+        "document": "lecon13_h3"
+      }
+    },
+    {
+      "title": "A-Les causes socio-économiques",
+      "content": "Les masses paysannes et ouvrières sont au désarroi. Les paysans sont pauvres, sans terre, misérables. Les ouvriers n’ont aucun droit syndical, travaillent dur 15 hj et possèdent des salaires trop bas.",
+      "type": "section",
+      "subsections": [
+        {
+          "title": "B- les causes politiques.",
+          "content": "Les classes défavorisées se rallient aux partis révolutionnaires que sont le parti «Bolchevik » et le parti « Menchevik». Le mécontentement se généralise à l’égard du Tsar Nicolas II surtout avec la défaite russe face au Japon en 1905 et les lourdes pertes infligées par l’Allemagne en 1914 pendant la première guerre mondiale.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_1",
+            "parent_section": "sec_3",
+            "keywords": [
+              "politiques",
+              "causes"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon13_h3"
+          }
+        }
+      ],
+      "metadata": {
+        "section_id": "sec_3",
+        "keywords": [
+          "économiques",
+          "socio",
+          "causes"
+        ],
+        "chunk_type": "section",
+        "document": "lecon13_h3"
+      }
+    },
+    {
+      "title": "II-LES ETAPES DE LA REVOLUTION",
+      "content": "",
+      "type": "section",
+      "subsections": [
+        {
+          "title": "A- Février 1917.",
+          "content": "En février 1917, cinq jours de manifestations, de grèves spontanées et de mutineries mettent fin au régime de Nicolas II et donnent naissance à un gouvernement provisoire dirigé par Kerenski qui proclame la République, consacrant ainsi la révolution bourgeoise en Russie. Kerenski entreprend des réformes qui sont jugées insuffisantes par les bolcheviks qui attaquent la politique du gouvernement provisoire.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_1",
+            "parent_section": "sec_4",
+            "keywords": [
+              "février"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon13_h3"
+          }
+        },
+        {
+          "title": "B- Octobre 1917-",
+          "content": "Dans la nuit du 24 au 25 octobre du calendrier russe 6 au 7 novembre , les bolcheviks prennent d’assaut le Palais d’Hiver. Kerenski prend la fuite. Lénine dirige le Conseil des commissaires du peuple composé de bolcheviks, d’anarchistes et d’autres socialistes. Cette insurrection générale marque le début de la révolution socialiste en Russie.",
+          "type": "subsection",
+          "subparts": [],
+          "metadata": {
+            "subsection_id": "sub_2",
+            "parent_section": "sec_4",
+            "keywords": [
+              "octobre"
+            ],
+            "chunk_type": "subsection",
+            "document": "lecon13_h3"
+          }
+        }
+      ],
+      "metadata": {
+        "section_id": "sec_4",
+        "keywords": [
+          "revolution",
+          "etapes"
+        ],
+        "chunk_type": "section",
+        "document": "lecon13_h3"
+      }
+    },
+    {
+      "title": "III-LA CONSOLIDATION DU REGIME.",
+      "content": "La révolution d’octobre 1917 porte au pouvoir Lénine qui prend plusieurs mesures importantes dont la nationalisation des entreprises, la remise des terres aux paysans, le retrait de la Russie de la première guerre mondiale, l’égalité de tous les peuples de Russie, la création de l’Armée Rouge. Entre 1917 et 1921, la Russie est plongée dans une guerre civile. En 1921, Lénine, dans le cadre du redressement de l’économie russe, initie la N. E. P nouvelle politique économique en faisant appel aux capitaux et aux techniciens étrangers. En 1922, la Russie devient l’U. R. S. S. l’Union des Républiques Socialistes Soviétiques. En 1924, Lénine meurt et Staline le remplace. Staline, en prenant le pouvoir, se livre à des purges contre ses adversaires tels que Trotski. Il renonce à la NEP et décide de développer l’agriculture en créant les Kolkhozes coopératives agricoles et les Sovkhozes fermes d’états. Dans l’industrie, l’U. R. S. S. accomplit des progrès spectaculaires et devient la troisième puissance industrielle mondiale derrière les Etats Unis et l’Allemagne.",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_5",
+        "keywords": [
+          "regime",
+          "consolidation"
+        ],
+        "chunk_type": "section",
+        "document": "lecon13_h3"
+      }
+    },
+    {
+      "title": "CONCLUSION",
+      "content": "En 1917, l’empire des Tsars s’effondre pour laisser place, après une brève expérience de république libérale, à un régime totalement nouveau : le communisme. Sous la direction de Lénine, puis de Staline, l’URSS entreprend la consolidation du socialisme",
+      "type": "section",
+      "subsections": [],
+      "metadata": {
+        "section_id": "sec_6",
+        "keywords": [
+          "conclusion"
+        ],
+        "chunk_type": "section",
+        "document": "lecon13_h3"
+      }
+    }
+  ]
+}
