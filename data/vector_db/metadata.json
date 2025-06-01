@@ -1,0 +1,834 @@
+[
+  {
+    "source": "lecon10_geo3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon10_geo3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon10_geo3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon10_geo3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon10_geo3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon10_geo3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon10_h3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon10_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon10_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon10_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon11_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon11_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon11_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon11_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon11_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon12_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon12_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon12_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon12_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon12_h3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon12_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon12_h3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon12_h3_cleaned - sub_3",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon12_h3_cleaned - sec_8",
+    "type": "section"
+  },
+  {
+    "source": "lecon13_h3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon13_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon13_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon13_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon13_h3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon13_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon13_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon14_h3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon14_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon14_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon14_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon14_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon14_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon14_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon14_h3_cleaned - sec_7",
+    "type": "section"
+  },
+  {
+    "source": "lecon15_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon15_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon15_h3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon15_h3_cleaned - sub_3",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon15_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon15_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon15_h3_cleaned - sec_7",
+    "type": "section"
+  },
+  {
+    "source": "lecon15_h3_cleaned - sec_8",
+    "type": "section"
+  },
+  {
+    "source": "lecon16_h3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon16_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon16_h3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon16_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon16_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon16_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon17_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon17_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon17_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon17_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon17_h3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon17_h3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon17_h3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon17_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon17_h3_cleaned - sec_7",
+    "type": "section"
+  },
+  {
+    "source": "lecon18_h3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon18_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon18_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon18_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon18_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon19_h3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon19_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon19_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon19_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon19_h3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon19_h3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon19_h3_cleaned - part_3",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon19_h3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon19_h3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon19_h3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon19_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - part_3",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon1_geo3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon1_h3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon1_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon1_h3_cleaned - sec_7",
+    "type": "section"
+  },
+  {
+    "source": "lecon2_geo3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon2_geo3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon2_geo3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon2_geo3_cleaned - sec_7",
+    "type": "section"
+  },
+  {
+    "source": "lecon2_geo3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon2_geo3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon2_geo3_cleaned - sec_8",
+    "type": "section"
+  },
+  {
+    "source": "lecon2_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon2_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon2_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon2_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon2_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_geo3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_geo3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_geo3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_geo3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon3_geo3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_geo3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon3_geo3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_geo3_cleaned - sec_7",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon3_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - part_3",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - part_4",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - part_3",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - part_4",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon4_geo3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon4_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon4_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon4_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon4_h3_cleaned - sec_7",
+    "type": "section"
+  },
+  {
+    "source": "lecon4_h3_cleaned - sec_8",
+    "type": "section"
+  },
+  {
+    "source": "lecon4_h3_cleaned - sec_9",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_geo3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_geo3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_geo3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_geo3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_geo3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_geo3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon5_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon6_geo3_cleaned - sec_9",
+    "type": "section"
+  },
+  {
+    "source": "lecon6_h3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon6_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon6_h3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon6_h3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon6_h3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon6_h3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon6_h3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon6_h3_cleaned - sec_7",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_geo3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_h3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon7_h3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon7_h3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon7_h3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon8_geo3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon8_geo3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon8_geo3_cleaned - sec_4",
+    "type": "section"
+  },
+  {
+    "source": "lecon8_geo3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon8_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon8_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon8_h3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon8_h3_cleaned - part_1",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon8_h3_cleaned - part_2",
+    "type": "subpart"
+  },
+  {
+    "source": "lecon8_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon8_h3_cleaned - sub_2",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon8_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon9_geo3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon9_geo3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon9_geo3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon9_geo3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon9_geo3_cleaned - sec_6",
+    "type": "section"
+  },
+  {
+    "source": "lecon9_h3_cleaned - sec_1",
+    "type": "section"
+  },
+  {
+    "source": "lecon9_h3_cleaned - sec_2",
+    "type": "section"
+  },
+  {
+    "source": "lecon9_h3_cleaned - sec_3",
+    "type": "section"
+  },
+  {
+    "source": "lecon9_h3_cleaned - sec_5",
+    "type": "section"
+  },
+  {
+    "source": "lecon9_h3_cleaned - sub_1",
+    "type": "subsection"
+  },
+  {
+    "source": "lecon9_h3_cleaned - sec_6",
+    "type": "section"
+  }
+]
