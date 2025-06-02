@@ -1,10 +1,5 @@
-torch==2.1.0
-transformers==4.36.2
-sentence-transformers==2.2.2
-huggingface_hub==0.20.2
+torch
 faiss-cpu
-accelerate
-bitsandbytes
-numpy==1.26.4
-pandas==2.1.3
-
+sentence-transformers
+ctransformers
+huggingface-hub

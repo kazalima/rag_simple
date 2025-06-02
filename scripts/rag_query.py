@@ -1,136 +1,136 @@
-import faiss
 import json
+import faiss
 import numpy as np
-from sentence_transformers import SentenceTransformer
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
-import os
+from sentence_transformers import SentenceTransformer
+from ctransformers import AutoModelForCausalLM
+from typing import List, Dict, Tuple
 
 class RAGSystem:
-    def __init__(self, model_cache_dir="models"):
-        self.model_cache_dir = model_cache_dir
-        os.makedirs(self.model_cache_dir, exist_ok=True)
+    def __init__(self, vector_db_dir: str = "data/vector_db/"):
+        # Configuration initiale
+        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        print(f"Utilisation du dispositif: {self.device}")
         
-        # Configurations
-        self.embedding_model_name = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-        self.llm_model_name = "HuggingFaceH4/zephyr-7b-beta"
-        
-        # Chargement des modèles
-        self._load_embedding_model()
-        self._load_llm_model()
-        self._load_vector_db()
-
-    def _load_embedding_model(self):
-        """Charge le modèle d'embedding"""
-        self.embedder = SentenceTransformer(self.embedding_model_name)
-
-    def _load_llm_model(self):
-        """Charge le LLM avec sauvegarde en cache"""
-        model_path = os.path.join(self.model_cache_dir, "zephyr-7b-beta")
-        
-        # Téléchargement si non présent en cache
-        if not os.path.exists(model_path):
-            print("Téléchargement du modèle Zephyr...")
-            self.tokenizer = AutoTokenizer.from_pretrained(self.llm_model_name)
-            self.llm = AutoModelForCausalLM.from_pretrained(
-                self.llm_model_name,
-                torch_dtype=torch.float16,
-                device_map="auto",
-                load_in_4bit=True
+        # Charger les composants
+        self._load_retriever(vector_db_dir)
+        self._load_zephyr()
+    
+    def _load_retriever(self, vector_db_dir: str):
+        """Charge le modèle d'embedding et l'index FAISS"""
+        try:
+            self.embedder = SentenceTransformer(
+                "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+                device=self.device
             )
-            # Sauvegarde locale
-            self.tokenizer.save_pretrained(model_path)
-            self.llm.save_pretrained(model_path)
-            print(f"Modèle sauvegardé dans {model_path}")
-        else:
-            print("Chargement du modèle depuis le cache...")
-            self.tokenizer = AutoTokenizer.from_pretrained(model_path)
+            
+            self.index = faiss.read_index(f"{vector_db_dir}/lesson_index.faiss")
+            
+            with open(f"{vector_db_dir}/metadata.json", "r", encoding="utf-8") as f:
+                self.metadata = json.load(f)
+                
+            print(f"Retriever chargé avec {self.index.ntotal} embeddings")
+            
+        except Exception as e:
+            raise RuntimeError(f"Erreur lors du chargement du retriever: {str(e)}")
+    
+    def _load_zephyr(self):
+        """Charge Zephyr-7B quantifié (4-bit)"""
+        try:
+            model_name = "TheBloke/zephyr-7B-alpha-GGUF"
             self.llm = AutoModelForCausalLM.from_pretrained(
-                model_path,
-                torch_dtype=torch.float16,
-                device_map="auto",
-                load_in_4bit=True
+                model_name,
+                model_file="zephyr-7b-alpha.Q4_K_M.gguf",
+                model_type="mistral",
+                gpu_layers=50 if self.device == "cuda" else 0  # Seule modification ici
             )
+            print("Zephyr-7B-alpha (4-bit) chargé avec succès")
+            
+        except Exception as e:
+            raise RuntimeError(f"Erreur de chargement de Zephyr: {str(e)}")
+    
+    def retrieve(self, query: str, k: int = 3) -> List[Dict]:
+        """Récupère les k chunks les plus pertinents"""
+        query_embedding = self.embedder.encode(
+            [query], 
+            convert_to_tensor=True,
+            show_progress_bar=False
+        ).cpu().numpy()
         
-        self.pipe = pipeline(
-            "text-generation",
-            model=self.llm,
-            tokenizer=self.tokenizer,
-            device="cuda" if torch.cuda.is_available() else "cpu"
-        )
-
-    def _load_vector_db(self):
-        """Charge la base vectorielle"""
-        self.index = faiss.read_index("data/vector_db/lesson_index.faiss")
-        with open("data/vector_db/metadata.json", "r", encoding="utf-8") as f:
-            self.metadata = json.load(f)
-
-    def retrieve(self, query, k=3):
-        """Recherche les passages pertinents"""
-        query_embedding = self.embedder.encode([query])
         distances, indices = self.index.search(query_embedding, k)
         
-        return [
-            {
-                "text": self.metadata[idx]["text"],
-                "source": self.metadata[idx]["source"],
-                "score": float(score)
-            }
-            for idx, score in zip(indices[0], distances[0]) if idx >= 0
-        ]
-
-    def generate_response(self, question, contexts, max_length=512):
-        """Génère une réponse avec le contexte"""
-        context_str = "\n".join(f"[Source: {ctx['source']}] {ctx['text']}" for ctx in contexts)
+        results = []
+        for idx, score in zip(indices[0], distances[0]):
+            if idx >= 0:
+                result = {
+                    "content": self.metadata[idx].get("text", ""),
+                    "score": float(score),
+                    "source": self.metadata[idx].get("source", "inconnu"),
+                    "type": self.metadata[idx].get("type", "section")
+                }
+                results.append(result)
         
-        prompt = f"""<|system|>
-Vous êtes un expert en histoire-géographie. Répondez à la question en utilisant exclusivement le contexte fourni.
+        return sorted(results, key=lambda x: x["score"], reverse=True)
+    
+    def _format_prompt(self, query: str, context: str) -> str:
+        """Structure le prompt pour Zephyr"""
+        return f"""<|system|>
+Vous êtes un assistant expert en histoire et géographie du Sénégal.
+Répondez exclusivement en français avec des termes précis.
+Basez-vous strictement sur le contexte fourni.
 
 Contexte:
-{context_str}</s>
+{context[:3000]}  # Tronquer pour éviter les dépassements
+
+Question: {query}</s>
 <|user|>
-{question}</s>
-<|assistant|>"""
+{query}</s>
+<|assistant|>
+"""
+    
+    def generate_answer(self, query: str, context: str) -> str:
+        """Génère une réponse à partir du contexte"""
+        prompt = self._format_prompt(query, context)
         
-        outputs = self.pipe(
+        output = self.llm(
             prompt,
-            max_new_tokens=max_length,
-            do_sample=True,
-            temperature=0.7,
-            top_k=50,
-            top_p=0.95
+            max_new_tokens=256,
+            temperature=0.3,
+            repetition_penalty=1.1,
+            stop=["</s>", "<|endoftext|>"]
         )
         
-        return outputs[0]["generated_text"].split("<|assistant|>")[-1].strip()
-
-    def query(self, question):
-        """Pipeline complet RAG"""
-        contexts = self.retrieve(question)
-        response = self.generate_response(question, contexts)
+        return str(output).split("</s>")[0].strip()
+    
+    def query(self, question: str, k_results: int = 3) -> Dict:
+        """Pipeline RAG complet"""
+        # Étape 1: Récupération
+        retrieved = self.retrieve(question, k=k_results)
+        context = "\n\n".join([r["content"] for r in retrieved])
+        
+        # Étape 2: Génération
+        answer = self.generate_answer(question, context)
         
         return {
             "question": question,
-            "answer": response,
-            "sources": [ctx["source"] for ctx in contexts]
+            "answer": answer,
+            "sources": [r["source"] for r in retrieved],
+            "context": retrieved
         }
 
-def test_rag_system():
-    """Teste le système RAG avec une question exemple"""
-    print("Initialisation du système RAG...")
-    rag = RAGSystem(model_cache_dir="models")
-    
-    question = "Quelles sont les causes principales de la révolution industrielle en Europe ?"
-    print(f"\nQuestion test: {question}")
-    
-    result = rag.query(question)
-    
-    print("\nRéponse générée:")
-    print(result["answer"])
-    
-    print("\nSources utilisées:")
-    for source in result["sources"]:
-        print(f"- {source}")
-
 if __name__ == "__main__":
-    # Exécute le test automatiquement
-    test_rag_system()
+    print("Initialisation du système RAG...")
+    rag = RAGSystem()
+    
+    questions = [
+        "Quelles sont les caractéristiques du système colonial français ?",
+        "Expliquez les impacts de la révolution industrielle en Afrique",
+        "Quels sont les facteurs de la décolonisation ?"
+    ]
+    
+    for q in questions:
+        print(f"\nQuestion: {q}")
+        result = rag.query(q)
+        print(f"Réponse: {result['answer']}")
+        print(f"Sources: {result['sources']}")
+        print("---")
